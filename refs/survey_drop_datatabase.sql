@@ -1,0 +1,1 @@
+DROP DATABASE toys_JavaWithDB;

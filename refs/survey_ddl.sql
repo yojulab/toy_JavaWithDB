@@ -1,3 +1,10 @@
+-- with --lower_case_table_names=1
+
+-- DROP DATABASE toys_JavaWithDB;
+
+CREATE DATABASE toys_JavaWithDB;
+
+USE toys_JavaWithDB;
 
 CREATE TABLE ANSWERS
 (
