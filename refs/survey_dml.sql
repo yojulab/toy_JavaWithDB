@@ -1,3 +1,5 @@
+USE toys_JavaWithDB;
+
 INSERT INTO QUESTIONS_LIST (QUESTIONS_UID, QUESTIONS, ORDERS)
 VALUES ('Q1', "해당 매장을 방문시 매장은 청결 하였습니까?", 1);
 
