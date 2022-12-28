@@ -1,3 +1,10 @@
+-- with --lower_case_table_names=1
+
+-- DROP DATABASE toys_JavaWithDB;
+
+CREATE DATABASE toys_JavaWithDB DEFAULT CHARACTER SET UTF8 COLLATE UTF8_GENERAL_CI;
+
+USE toys_JavaWithDB;
 
 CREATE TABLE ANSWERS
 (
